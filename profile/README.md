@@ -1,41 +1,65 @@
-# Samorząd Studencki Polsko-Japońskiej Akademii Technik Komputerowych
+### 🌟 Samorząd Studencki Polsko-Japońskiej Akademii Technik Komputerowych 🌟
 
-Witamy w oficjalnym repozytorium Samorządu Studenckiego Polsko-Japońskiej Akademii Technik Komputerowych (PJATK). Jesteśmy ustawowym reprezentantem wszystkich studentów naszej uczelni, działającym na rzecz społeczności akademickiej.
+🌸 **Witamy w oficjalnym repozytorium GitHub Samorządu Studenckiego PJATK!** 🌸  
+👩‍🎓👨‍🎓 Jesteśmy reprezentantami wszystkich studentów naszej uczelni i działamy na rzecz społeczności akademickiej. 💪🎓
 
-## O nas
+---
 
-Samorząd Studencki PJATK to wspólnota wszystkich studentów uczelni. Naszym celem jest reprezentowanie interesów studenckich zarówno na terenie uczelni, jak i w środowisku międzyuczelnianym. Działamy jako łącznik między studentami a władzami uczelni, dbając o to, aby potrzeby i postulaty studentów były wysłuchane i realizowane. 
+## 🎯 O nas
 
-## Nasze działania
+🎉 **Samorząd Studencki PJATK** to organizacja, która skupia wszystkich studentów naszej uczelni! 🏫  
+💡 Naszym celem jest:  
+- 🗣️ Reprezentowanie interesów studentów,  
+- 🤝 Tworzenie przestrzeni do dialogu między studentami a władzami uczelni,  
+- 🌟 Budowanie przyjaznej i inspirującej atmosfery w społeczności akademickiej.  
 
-- **Reprezentacja studentów**: Uczestniczymy w organach kolegialnych uczelni, takich jak Senat Uczelni czy Rady Wydziałów, aby zapewnić, że głos studentów jest brany pod uwagę w procesie decyzyjnym. 
+---
 
-- **Wsparcie socjalne i stypendialne**: Rozpatrujemy wnioski o przyznanie pomocy materialnej dla studentów, dbając o ich dobro i wspierając w trudnych sytuacjach. 
+## 📌 Nasze działania
 
-- **Organizacja wydarzeń kulturalnych**: Inicjujemy i organizujemy wydarzenia integracyjne, takie jak wyjazdy, otrzęsiny czy połowinki, które sprzyjają budowaniu więzi w społeczności studenckiej. 
+🔹 **Reprezentacja studentów**:  
+🎓 Zasiadamy w organach uczelnianych, takich jak Senat i Rady Wydziałów, aby Twoje potrzeby i opinie były słyszane.  
 
-- **Współpraca międzynarodowa**: Wspieramy projekty na rzecz umiędzynarodowienia uczelni, promując PJATK na arenie międzynarodowej i wspierając studentów zagranicznych. 
+🔹 **Wsparcie socjalne i stypendialne**:  
+💰 Pomagamy w uzyskaniu pomocy materialnej i wspieramy studentów w trudnych sytuacjach.  
 
-## Struktura organizacyjna
+🔹 **Organizacja wydarzeń**:  
+🎉 Integracyjne wyjazdy, imprezy, połowinki i inne wydarzenia, które łączą całą społeczność PJATK.  
 
-Samorząd Studencki PJATK składa się z różnych organów, które wspólnie pracują na rzecz społeczności studenckiej:
+🔹 **Współpraca międzynarodowa**:  
+🌍 Wspieramy studentów zagranicznych i promujemy naszą uczelnię na świecie!  
 
-- **Rada Uczelniana Samorządu Studenckiego**: Organ uchwałodawczy na poziomie uczelni, odpowiedzialny za opiniowanie i wyrażanie stanowisk dotyczących życia studentów. 
+---
 
-- **Zarząd Rady Uczelnianej Samorządu Studenckiego**: Organ wykonawczy zajmujący się sprawami studenckimi, takimi jak organizacja wydarzeń kulturalnych, wsparcie prawno-socjalne czy promocja działalności studenckiej. 
+## 🏛️ Struktura organizacyjna
 
-- **Wydziałowe Rady Samorządu Studenckiego**: Organy uchwałodawcze na poziomie wydziałów, reprezentujące studentów poszczególnych wydziałów PJATK. 
+👑 **Rada Uczelniana Samorządu Studenckiego**  
+👉 Decydujemy o kluczowych sprawach studentów na poziomie całej uczelni.  
 
-## Jak do nas dołączyć
+⚙️ **Zarząd Rady Uczelnianej**  
+👉 Odpowiadamy za organizację wydarzeń, wsparcie prawno-socjalne i codzienną działalność samorządu.  
 
-Jeśli chcesz aktywnie uczestniczyć w życiu uczelni i mieć wpływ na jej funkcjonowanie, zapraszamy do dołączenia do naszego Samorządu. Rekrutacja odbywa się cyklicznie, a informacje o naborze są publikowane na naszych profilach w mediach społecznościowych. 
+📚 **Wydziałowe Rady Samorządu Studenckiego**  
+👉 Działamy na poziomie wydziałów, aby każdy student miał swoje miejsce i wsparcie.  
 
-## Kontakt
+---
 
-- **E-mail**: samorzad@pja.edu.pl
-- **Facebook**: [Samorząd Studencki PJATK](https://www.facebook.com/Samorzad.Studencki.PJATK)
-- **Instagram**: [@samorzadpjatk](https://www.instagram.com/samorzadpjatk/)
-- **Discord**: [Samorząd PJATK](https://discord.com/invite/samorzadpjatk)
-- **YouTube**: [Samorząd Studencki PJATK](https://www.youtube.com/@samorzadpjatk)
+## 🤝 Jak do nas dołączyć?
 
-Zapraszamy do kontaktu i współpracy! 
+💡 Chcesz zmieniać życie studenckie na lepsze?  
+🌟 **Dołącz do nas!** 🌟 Rekrutacja odbywa się regularnie, a szczegóły znajdziesz na:  
+📢 **[Facebook](https://www.facebook.com/Samorzad.Studencki.PJATK)** i **[Instagramie](https://www.instagram.com/samorzadpjatk/)**.  
+
+---
+
+## 📬 Kontakt
+
+📧 **E-mail**: samorzad@pja.edu.pl  
+📘 **Facebook**: [Samorząd Studencki PJATK](https://www.facebook.com/Samorzad.Studencki.PJATK)  
+📸 **Instagram**: [@samorzadpjatk](https://www.instagram.com/samorzadpjatk/)  
+🎮 **Discord**: [Samorząd PJATK](https://discord.com/invite/samorzadpjatk)  
+▶️ **YouTube**: [Samorząd Studencki PJATK](https://www.youtube.com/@samorzadpjatk)  
+
+---
+
+🎓✨ **Zapraszamy do współpracy!** Twórzmy razem wyjątkową społeczność PJATK! ✨🎓
